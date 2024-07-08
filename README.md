@@ -21,13 +21,23 @@ It allows you to detect the landmarks of the hands in an image. You can use this
 The project lets users draw using hand gesture recognition. At the top, there is a panel with brushes of blue, orange, purple, and red, along with an eraser to clear the drawing. There are 5 images designed on the canvas of size 640x62 to show the selections made for each color along with the eraser. The header of the display keeps updating the images based on the selection made by the user.
 The images used as headers in the project are attached below.
 
-![1](https://github.com/parth9504/Gesture-Canvas/assets/127659489/7232254f-bb50-4008-a1f5-0d05f660cf76)
+Selected color: Blue
+
+![1](https://github.com/parth9504/Gesture-Canvas/assets/127659489/7232254f-bb50-4008-a1f5-0d05f660cf76)  
+
+Selected color: Orange
 
 ![2](https://github.com/parth9504/Gesture-Canvas/assets/127659489/12325a31-14fe-416b-8e6d-85ac5b6309a7)
 
+Selected color: Purple
+
 ![3](https://github.com/parth9504/Gesture-Canvas/assets/127659489/1f1bb676-572d-42db-81ff-d8bb40c7aa07)
 
+Selected color: Red
+
 ![4](https://github.com/parth9504/Gesture-Canvas/assets/127659489/215a02d5-5174-44d2-87f5-93c0ba054c8f)
+
+Eraser Selected
 
 ![5](https://github.com/parth9504/Gesture-Canvas/assets/127659489/1abab92f-b8be-4819-b2a1-92b2268da1b6)
 
