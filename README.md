@@ -6,12 +6,14 @@ This project has been built using MediaPipe and OpenCV. The MediaPipe framework 
 **Understanding the Hand Landmark Detection Model**
 It allows you to detect the landmarks of the hands in an image. You can use this task to locate key points of hands and render visual effects on them. This task operates on image data with a machine learning (ML) model as static data or a continuous stream and outputs hand landmarks in image coordinates, hand landmarks in world coordinates, and the handedness of multiple detected hands.
 
-  ### **Parameters it primarily works on**
-     -**static_image_mode**: If set to false, the solution treats the input image as a video stream.
-     -**max_num_hands**: The maximum number of hands that can be detected by the model; the default value is 2.
-     -**model_complexity**: Landmark accuracy depends on this parameter, which ranges between 0 and 1. The default value is 1.
-     -**min_detection_confidence**: The minimum value for which the detection should be considered successful, ranging from 0 to 1. The default value is 0.5.
-     -**min_tracking_confidence**: The minimum value for tracking confidence, ranging from 0 to 1. The default value is 0.5.
+### Parameters it primarily works on
+
+- **static_image_mode**: If set to false, the solution treats the input image as a video stream.
+- **max_num_hands**: The maximum number of hands that can be detected by the model; the default value is 2.
+- **model_complexity**: Landmark accuracy depends on this parameter, which ranges between 0 and 1. The default value is 1.
+- **min_detection_confidence**: The minimum value for which the detection should be considered successful, ranging from 0 to 1. The default value is 0.5.
+- **min_tracking_confidence**: The minimum value for tracking confidence, ranging from 0 to 1. The default value is 0.5.
+
 
 
 **About Gesture Canvas**
