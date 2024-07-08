@@ -45,14 +45,14 @@ Eraser Selected
 
 **By default, the thickness of each brush has been set to 10, while for the eraser, it is 40. These values can't be changed using gestures and have to be done manually.**
 
-**Different Modes of Operation**
+### Different Modes of Operation
 
 For selection or drawing, it depends on the number of fingers that are up. A `fingers[]` list stores values 4, 8, 12, 16, 20, which correspond to the tips of the five fingers:
-  4  -- tip of the thumb
-  8  -- tip of the index finger
-  12 -- tip of the middle finger
-  16 -- tip of the ring finger
-  20 -- tip of the pinky finger
+ - **4  -- tip of the thumb**
+ - **8  -- tip of the index finger**
+ - **12 -- tip of the middle finger**
+ - **16 -- tip of the ring finger**
+ - **20 -- tip of the pinky finger**
 
 You can refer to the following image to understand the different landmarks and their values
 
